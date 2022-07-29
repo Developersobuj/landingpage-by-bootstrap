@@ -8,3 +8,22 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+.above_faq {
+    padding: 200px 0px 100px 0px;
+}
+
+
+.companys {
+    padding: 100px 0px;
+}
+
+footer {
+    height: 400px;
+}
+
+.icons a {
+    font-size: 30px;
+    margin: 5px;
+    color: #ffffffff;
+}
